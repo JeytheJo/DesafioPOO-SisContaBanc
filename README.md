@@ -11,7 +11,7 @@
 ### Estrutura do projeto
 
 ```
-trabalho_poo/
+DesafioPOO-SisContaBanc/
 ├── src/
 │   ├── Main.java                          ← Demonstração do polimorfismo + exceções
 │   ├── contas/
